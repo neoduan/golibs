@@ -1,0 +1,21 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/cihub/seelog",
+			"repository": "https://github.com/cihub/seelog",
+			"vcs": "git",
+			"revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/go-sql-driver/mysql",
+			"repository": "https://github.com/go-sql-driver/mysql",
+			"vcs": "git",
+			"revision": "bf7f34fef176d890dfcc6e94319ac747291bc09a",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
